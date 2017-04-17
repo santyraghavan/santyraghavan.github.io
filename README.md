@@ -1,3 +1,8 @@
+```sequence
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+
 ## Available patterns
 
 *Note: As of version `1.3.0`, string references (e.g. `overlapping_circles`)

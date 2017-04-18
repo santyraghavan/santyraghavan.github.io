@@ -5,7 +5,7 @@ date:   2016-02-12 17:50:00
 categories: main
 ---
 
-<h2> AWS DB <h2>
+<h2> AWS DB </h2>
 
 There are two different limits -- that of the DB (10GB), and that of the DB instance server storage (300GB). A DB server instance could quite easily host several DBs, or a DB and support files such as logs, dumps, and flat file backups. Please see the AWS documentation for full details.
 https://d0.awsstatic.com/whitepapers/rdbms-in-the-cloud-sql-server-on-aws.pdf

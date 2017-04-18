@@ -1,15 +1,13 @@
-## Available patterns
-
-*Note: As of version `1.3.0`, string references (e.g. `overlapping_circles`)
-are deprecated in favor of symbol references (e.g. `:overlapping_circles`).*
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
 
 ### :chevrons
 
 ![](http://jasonlong.github.io/geo_pattern/examples/chevrons.png)
 
-
-### :octagons
-
-![](http://jasonlong.github.io/geo_pattern/examples/octogons.png)
-
-### :overlapping_circles

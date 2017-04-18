@@ -21,3 +21,5 @@ http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_SQLServer.html
 ++ When I create a new security group, all outbound traffic is allowed by default. -- True
 ++ With new RDS Db instances, automated backups are enabled by default? -- True
 ++ Amazon RDS does not currently support increasing storage on an active ________ Db instance. -- MS SQL Server 
+++ S3 has eventual consistency for which HTTP Methods? -- overwrite PUTS and DELETES
+++ Which consistency model for PUTS of new objects does S3 offer? -- 

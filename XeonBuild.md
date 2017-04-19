@@ -1,3 +1,9 @@
+---
+layout: default
+title: {{ site.name }}
+---
+
+
 ## CPU 
 
 * 2.8GHz Intel 

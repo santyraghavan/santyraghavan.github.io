@@ -15,3 +15,6 @@ are deprecated in favor of symbol references (e.g. `:overlapping_circles`).*
 ![](http://jasonlong.github.io/geo_pattern/examples/octogons.png)
 
 ### :overlapping_circles
+
+<!-- Test include -->
+{% include skills.html %}

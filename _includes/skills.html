@@ -2,7 +2,7 @@
 <canvas id="skills" height="500" width="500"></canvas>
     
 <script>
-        var ctx = document.getElementById("skills");
+        var ctx = document.getElementById("skills").getContext("2d");
         var data = {
             labels: "{{ site.data.index.skills.aspects }}".split(","),
             datasets: [{

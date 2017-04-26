@@ -1,20 +1,21 @@
 
 
-## Available patterns
+## Welcome
 
-*Note: As of version `1.3.0`, string references (e.g. `overlapping_circles`)
-are deprecated in favor of symbol references (e.g. `:overlapping_circles`).*
-
-### :chevrons
-
-![](http://jasonlong.github.io/geo_pattern/examples/chevrons.png)
+I am an Solutions Architect. I love technology. 
 
 
-### :octagons
 
-![](http://jasonlong.github.io/geo_pattern/examples/octogons.png)
+### What's cooking
 
-### :overlapping_circles
+
+
+
+### 
+
+
+
+### 
 
 <!-- Test include -->
 {% include skills.html %}

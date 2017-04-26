@@ -15,6 +15,4 @@ I am a minimalist and spend quite a lot of energy balancing simplicity and funct
 ### About this Site
 
 This site is built in GitHub Pages and Jekyll. I used the Cayman theme from Jekyll.
-
-<!-- Test include -->
 {% include skills.html %}

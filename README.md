@@ -9,12 +9,6 @@ I am an primarily interested in Software Architecture, programming and hacking h
 I am a minimalist and spend quite a lot of energy balancing simplicity and functionality. 
 
 
-###
-
-
-
-
-### 
 
 
 

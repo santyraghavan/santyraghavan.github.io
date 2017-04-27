@@ -3,7 +3,7 @@
 ## Hello, I am Santy!
 <div>
 <!-- Main intro section -->
-<table style border:none;>
+<table style="border:none;">
     <tr>
         <td>
         <p align = "justify">

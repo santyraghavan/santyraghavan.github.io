@@ -4,7 +4,7 @@
 
 I began my career in India spent time in New Zealand, Australia, San Francisco and now Dallas, Texas.  
 
-I am an interested in Software Architecture, programming, hacking hardware/electronics and hacking espresso machines. I am an avid HAM Radio operator(KF5KGI). I build and hack computer hardware, linux and audio gear.  
+I am an interested in software architecture, programming and hacking - hardware, electronics and espresso machines. I am an avid HAM Radio operator(KF5KGI).  
 
 I am a minimalist and spend quite a lot of energy balancing simplicity and functionality. 
 

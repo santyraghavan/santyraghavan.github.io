@@ -3,7 +3,7 @@
 ## Hello, I am Santy!
 <div>
 <!-- Main intro section -->
-<table border = "0" cellspacing="0" cellpadding="0">
+<table style="border-collapse: collapse;">
     <tr>
         <td>
         <p align = "justify">

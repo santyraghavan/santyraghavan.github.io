@@ -5,7 +5,7 @@
 <table class="main_page_table">
     <tr>
         <td>
-            <p align = "justify">
+            <p>
             I began my career in India and my work allowed me to experience living in New Zealand, Australia and now the USA. I work as 
             a Solutions Architect.
             <br>

@@ -6,11 +6,12 @@
     <tr>
         <td>
             <p align = "justify">
-            I began my career in India and my work allowed me to experience living in New Zealand, Australia and now the USA. 
+            I began my career in India and my work allowed me to experience living in New Zealand, Australia and now the USA. I work as 
+            a Solutions Architect.
             <br>
             <br>
-             I am an interested in software architecture, programming and hacking - hardware, electronics and espresso machines. I am an 
-             avid HAM Radio operator (KF5KGI). 
+             I hack code, hardware, electronics and espresso machines. I am a HAM (KF5KGI). I build audio equipment, radios and
+             antenna's.
              <br>
              <br>
              My current interests include machine learning, blockchain and security. 

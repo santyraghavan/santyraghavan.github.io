@@ -30,7 +30,7 @@
 
 </div>
 
-## Contact 
+## Get in touch!
 
 {% include contact.html %}
 

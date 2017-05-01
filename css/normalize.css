@@ -419,7 +419,7 @@ table {
   border: none;
 }
 
-td,
-th {
+td, th {
+  border: none;
   padding: 0;
 }

@@ -14,7 +14,7 @@
              antenna's.
              <br>
              <br>
-             My current interests include machine learning, blockchain and security. 
+             My current interests include software architecture, machine learning, blockchain and security. 
              <br>
              <br>
              I am a minimalist and spend quite a lot of energy balancing simplicity and functionality.

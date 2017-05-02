@@ -33,7 +33,3 @@
 ## Get in touch!
 
 {% include contact.html %}
-
-### About this Site
-
-This site is built in <a href = "https://pages.github.com">GitHub Pages</a> and <a href = "https://jekyllrb.com/">Jekyll</a> . I used the Cayman theme with a few minor changes.

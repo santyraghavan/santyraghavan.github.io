@@ -36,3 +36,9 @@ http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/terminating-instances.html#Us
 AWS does not copy launch permissions, user-defined tags, or Amazon S3 bucket permissions from the source AMI to the new AMI.
 Further information:
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/CopyingAMIs.html
+
+
+With proper scripting and scaling policies, the On-demand instances behind the Spot instances will deliver the most cost-effective solution because the on-demand will only spin up if the spot instances are not available. DynamoDB is a regional service, there is no need to explicitly create a multi-AZ deployment. RDS could be used, but DynamoDB lends itself better to supporting stateless web/app installations.
+Further information:
+https://aws.amazon.com/blogs/compute/an-ec2-spot-architecture-for-web-applications/
+https://aws.amazon.com/dynamodb/faqs/

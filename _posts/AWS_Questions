@@ -1,0 +1,29 @@
+Q
+You have been engaged by a company to design and lead a migration to an AWS environment. 
+The team is concerned about the capabilities of the new environment, especially when it 
+comes to avoiding bottlenecks. The design calls for about 20 instances (C3.2xLarge) pulling
+jobs/messages from SQS. Network traffic per instance is estimated to be around 500 Mbps at 
+the beginning and end of each job. Which network configuration should you plan on deploying?
+A
+When considering network traffic, you need to understand the difference between storage traffic
+and general network traffic, and the ways to address each. The 10Gbps is a red-herring, in that
+the 500Mbps only occurs for short intervals, and therefore your sustained throughput is not 
+10Gpbs. Whereever possible, use simple solutions such as spreading the load out rather than 
+expensive high tech solutions.
+Further information:
+
+https://media.amazonwebservices.com/AWS_Cloud_Best_Practices.pdf
+
+Q
+You have created a bespoke VPC that contains 2 web servers. These web servers must be publicly accessible by the internet and should also be highly resilient. Which of the following configurations should you consider? (Choose 2)\
+
+An Elastic Load Balancer can help you deliver stateful services, but not stateless. Elastic Map Reduce is a data crunching services and is not related to servicing web traffic.
+Further information:
+https://d0.awsstatic.com/whitepapers/managing-your-aws-infrastructure-at-scale.pdf
+https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf
+
+SPOT Terminating
+notification of spot termination
+Further information:
+https://aws.amazon.com/blogs/aws/new-ec2-spot-instance-termination-notices/
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/terminating-instances.html#Using_ChangingDisableAPITermination

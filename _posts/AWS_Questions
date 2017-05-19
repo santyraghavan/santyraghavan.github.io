@@ -27,3 +27,8 @@ notification of spot termination
 Further information:
 https://aws.amazon.com/blogs/aws/new-ec2-spot-instance-termination-notices/
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/terminating-instances.html#Using_ChangingDisableAPITermination
+
+notification of spot termination
+Further information:
+https://aws.amazon.com/blogs/aws/new-ec2-spot-instance-termination-notices/
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/terminating-instances.html#Using_ChangingDisableAPITermination

@@ -3,12 +3,18 @@ layout: default
 title: {{ site.name }}
 ---
 <div id = "header">
-    <center>  
-        <h2>Santy Raghavan</h2>
-        santy.raghavan at gmail.com<br>
-        214.478.0267<br>  
+    <center> 
+        <table border = "0">
+        <tr>    
+            <h2>Santy Raghavan</h2>
+            santy.raghavan at gmail.com<br>
+            214.478.0267<br>
+        </tr>
+        <tr>
+            {% include contact_small.html %}
+        </tr>
+        </table>
     </center>
-    {% include contact_small.html %}
 </div>
 
 

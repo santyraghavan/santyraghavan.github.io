@@ -5,8 +5,8 @@ The signals travelled approximately 18 Billion Kilometers before reaching Canber
 <br>
 <img src = "/images/Capture.JPG"> 
 <br>
-DSN is reporting the received power fron VGR2 at -153.61 dBm!
-
+<br>
+DSN is reporting the received power fron VGR2 at -153.61 dBm! That is roughly around one septllionth (1 followed by 24 zeros) of a Watt. 
 If this is not a feat of human engineering, I don't know what is.
 
 Check out for yourself. See what the Deep Space Network is currently receiving from outer space. 
